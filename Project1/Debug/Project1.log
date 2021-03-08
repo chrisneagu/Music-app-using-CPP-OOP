@@ -1,0 +1,9 @@
+﻿  main.cpp
+  music.cpp
+  nota.cpp
+  song.cpp
+c:\proiecte chris\proiect 1\poo1\song.cpp(27): warning C4244: 'initializing': conversion from 'double' to 'DWORD', possible loss of data
+c:\proiecte chris\proiect 1\poo1\song.cpp(114): warning C4244: '=': conversion from 'double' to 'DWORD', possible loss of data
+c:\proiecte chris\proiect 1\poo1\song.cpp(119): warning C4244: '=': conversion from 'double' to 'DWORD', possible loss of data
+  Generating Code...
+  Project1.vcxproj -> C:\music.cpp\Project1\Debug\App.exe
